@@ -62,8 +62,13 @@ a {
 	color: #6d80c5;
 }
 
-#main-image {
-	height: auto;
-	width: 50%;
+.hero .image-wrapper {
+	display: flex;
+    justify-content: center;
+	align-items: center;
 }
 
+#main-image {
+	height: auto;
+	width: 100%;
+}
