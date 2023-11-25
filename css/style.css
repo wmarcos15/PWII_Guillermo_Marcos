@@ -18,8 +18,8 @@ a {
 .navbar a {
   float: left;
   text-align: center;
-  padding: 14px 16px;
-  font-size: 17px;
+  padding: 1.5rem 16px;
+  font-size: 1.5rem;
 }
 
 /* To apply a border to all children (including the parent), eliminate later
