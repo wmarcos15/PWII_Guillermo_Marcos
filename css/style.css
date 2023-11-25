@@ -22,10 +22,10 @@ a {
   font-size: 17px;
 }
 
-/* To apply a border to all children (including the parent), eliminate later*/
+/* To apply a border to all children (including the parent), eliminate later
 .hero * {
 	border: 0.5px solid red;
-}
+}*/
 
 .hero {
 	display: flex;
