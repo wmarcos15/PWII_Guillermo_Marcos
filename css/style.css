@@ -22,6 +22,10 @@ a {
   font-size: 1.5rem;
 }
 
+.navbar a:hover {
+	background-color: #445bab;
+}
+
 /* To apply a border to all children (including the parent), eliminate later
 .hero * {
 	border: 0.5px solid red;
