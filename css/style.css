@@ -18,8 +18,8 @@ a {
 .navbar a {
   float: left;
   text-align: center;
-  padding: 1.5rem 16px;
-  font-size: 1.5rem;
+  padding: 2.5vw 16px;
+  font-size: 1.5vw;
 }
 
 .navbar a:hover {
@@ -48,18 +48,18 @@ a {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: left;
-	padding: 5rem;
+	align-items: flex-start;
+	padding: 1vw 2vw;
 }
 
 #Main-Title {
-	font-size: 5rem;
+	font-size: 5vw;
 	margin-bottom: -1rem;
 	font-weight: 900;
 }
 
 #Subtitle {
-	font-size: 2rem;
+	font-size: 2vw;
 }
 
 .title-and-subtitle .font-effect {
