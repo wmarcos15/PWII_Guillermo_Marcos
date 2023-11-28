@@ -102,6 +102,24 @@ body * {
 	width: 100%;
 }
 
+.container {
+	margin: 15px;
+}
+
+.title {
+	font-size: 3vw;
+	margin-bottom: 1vh;
+}
+
+.content {
+	display: flex;
+	justify-content: space-between;
+}
+
+.content-image {
+	height: auto;
+	width: 25vw;
+}
 
 @media screen and (max-width: 1024px) {
 	.navbar a {
