@@ -106,6 +106,7 @@ body * {
 @media screen and (max-width: 1024px) {
 	.navbar a {
 		font-size: 3vw;
+		padding: 2.5vw 3vw;
 	}
 
 	.fa .fa-home {
