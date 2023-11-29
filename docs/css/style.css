@@ -97,9 +97,13 @@ body * {
 	align-items: center;
 }
 
+.image-wrapper {
+	padding-right: 1.5vw;
+}
+
 #main-image {
 	height: auto;
-	width: 100%;
+	width: 85%;
 }
 
 .container {
