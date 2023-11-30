@@ -157,4 +157,9 @@ body * {
 	#Subtitle {
 		font-size: 4vw;
 	}
+
+	.image-wrapper {
+		padding-right: 0px;
+		text-align: center;
+	}
 }
