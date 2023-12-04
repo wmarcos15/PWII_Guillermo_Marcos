@@ -106,6 +106,15 @@ body * {
 	width: 85%;
 }
 
+/* About me page */
+.about-me {
+	text-align: center;
+}
+.images img {
+	height: auto;
+	width: 300px;
+}
+
 @media screen and (max-width: 1024px) {
 	.navbar a {
 		font-size: 3vw;
