@@ -86,7 +86,7 @@ body * {
 	}
 }
 
-.fa:hover {
+.fa-github:hover, .fa-instagram:hover {
 	color: #d53f3f;
 }
 
