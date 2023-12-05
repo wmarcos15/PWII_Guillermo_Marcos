@@ -149,6 +149,30 @@ body * {
 	background-color: #d53f3f;
 }
 
+.transformers {
+	display: flex;
+	justify-content: space-between;
+	padding: 3vw;
+}
+
+.transformers img {
+	height: 100%;
+	width: 250px;
+}
+
+.transformers p {
+	margin-right: 3vw;
+	text-align: justify;
+}
+
+.transformers a {
+	text-decoration: underline;
+}
+
+.transformers a:hover {
+	color: #d53f3f;
+}
+
 @media screen and (max-width: 1024px) {
 	.navbar a {
 		font-size: 3vw;
