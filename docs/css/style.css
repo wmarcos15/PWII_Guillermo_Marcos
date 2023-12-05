@@ -149,29 +149,36 @@ body * {
 	background-color: #d53f3f;
 }
 
-.transformers {
+.transformers, .examples, .what-are-llms {
 	display: flex;
 	justify-content: space-between;
 	padding: 3vw;
 }
 
-.transformers img {
+.topic-img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.transformers img, .examples img, .what-are-llms img {
 	height: 100%;
 	width: 250px;
 }
 
-.transformers p {
+.transformers p, .examples p, .what-are-llms p {
 	margin-right: 3vw;
 	text-align: justify;
 }
 
-.transformers a {
+.transformers a, .examples a, .what-are-llms a {
 	text-decoration: underline;
 }
 
-.transformers a:hover {
+.transformers a:hover, .examples a:hover, .what-are-llms a:hover {
 	color: #d53f3f;
 }
+
 
 @media screen and (max-width: 1024px) {
 	.navbar a {
