@@ -184,10 +184,9 @@ body * {
 	padding: 20px;
 }
 
-#first, #third, #fifth {
+#second, #fourth {
 	background-color: #161616;
 }
-
 
 .course h1 {
 	text-align: center;
