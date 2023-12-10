@@ -214,7 +214,7 @@ table {
 	background-color: #d53f3f;
 }
 
-/* Degree */
+/* Form */
 .form-wrapper{
 	padding: 30px;
 	margin: 0px 10vw;
@@ -264,6 +264,46 @@ textarea {
 	border: 5px solid #d53f3f;
 }
 
+/* Net */
+.net {
+	background-color: #d53f3f;
+	text-align: center;
+	padding: 10px 15vw;
+}
+
+.net .text {
+	text-align: center;
+}
+
+.net h1 {
+	margin: 0;
+	font-size: calc( 1rem + 4vw)
+}
+
+.links-wrapper {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.links-wrapper h3 {
+	text-align: center;
+	font-size: calc( 2.5vw + 12px);
+	margin: 5px;
+}
+
+.links-wrapper li {
+	margin-bottom: 1vw;
+	font-size: calc(8px + 1vw);
+}
+
+.links-wrapper a {
+	text-decoration: underline;
+}
+
+.links-wrapper a:hover {
+	color: #d53f3f;
+}
 @media screen and (max-width: 1024px) {
 	.navbar a {
 		font-size: 3vw;
