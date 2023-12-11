@@ -134,6 +134,12 @@ body * {
 	margin: -5px 0px;
 }
 
+.images {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
 .cv {
 	text-align: center;
 	padding: 10px;
