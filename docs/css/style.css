@@ -310,6 +310,31 @@ textarea {
 .links-wrapper a:hover {
 	color: #d53f3f;
 }
+
+/* FCE */
+.fce-wrapper {
+	padding: 1vw;
+	background-color: #d53f3f;
+}
+#fce-title {
+	text-align: center;
+	font-size: calc(1rem + 12px + 1.5vw);
+}
+
+.fce-image-wrapper {
+	text-align: center;
+}
+
+#fce-image {
+	width: 45vw;
+}
+
+section {
+	margin: 2.5vw;
+	padding: 0px 15px;
+	border: 3px solid #d53f3f;
+}
+
 @media screen and (max-width: 1024px) {
 	.navbar a {
 		font-size: 3vw;
