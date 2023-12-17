@@ -380,4 +380,18 @@ section {
 	.images-wrapper .images img {
 		width: 35vw;
 	}
+
+	.transformers, .examples, .what-are-llms {
+		display: flex;
+		justify-content: space-between;
+		padding: 3vw;
+		flex-direction: column;
+	}
+
+	.transformers img, .examples img, .what-are-llms img {
+		margin-top: 20px;
+		height: 100%;
+		width: 250px;
+	}
+
 }
