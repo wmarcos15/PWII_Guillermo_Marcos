@@ -372,4 +372,12 @@ section {
 		padding-right: 0px;
 		text-align: center;
 	}
+
+	object {
+		width: 80vw;
+	}
+
+	.images-wrapper .images img {
+		width: 35vw;
+	}
 }
